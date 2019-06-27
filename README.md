@@ -12,7 +12,7 @@ The extractor was divided into two main scripts: one in charge of harvesting the
 ### The features: ###
 From each race, the following information was collected:
 
-Location: city in which the race took place.
+Location: city in which the race took place.<br>
 Date: date of the race.
 Time: time of the day of the race.
 Going: condition of the surface.
