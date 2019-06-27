@@ -13,19 +13,20 @@ The extractor was divided into two main scripts: one in charge of harvesting the
 From each race, the following information was collected:
 
 Location: city in which the race took place.<br>
-Date: date of the race.
-Time: time of the day of the race.
-Going: condition of the surface.
-Surface: type of surface.
-Lenght: lenght of the track.
+Date: date of the race.<br>
+Time: time of the day of the race.<br>
+Going: condition of the surface.<br>
+Surface: type of surface.<br>
+Lenght: lenght of the track.<br>
+
 From each participant of the race (horse), the following information was collected:
 
-Position: position at the end of the race.
-Distance from first: distance between the horse and the winner.
-Stall: stall where the horse started the race.
-Name: name of the horse.
-Age: age of the horse.
-Weight: weight of the horse.
-Odds: odds of winning (given by the public).
-Trainer: trainer's name.
+Position: position at the end of the race.<br>
+Distance from first: distance between the horse and the winner.<br>
+Stall: stall where the horse started the race.<br>
+Name: name of the horse.<br>
+Age: age of the horse.<br>
+Weight: weight of the horse.<br>
+Odds: odds of winning (given by the public).<br>
+Trainer: trainer's name.<br>
 Jockey: jockey's name.
